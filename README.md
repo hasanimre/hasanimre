@@ -47,12 +47,7 @@ Mühendislik felsefesine, düşük seviyeli programlamaya (Low-Level), oyun geli
 
 ---
 
-## 📈 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[GITHUB_KULLANICI_ADIN]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_KULLANICI_ADIN]&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
 
 ---
 
