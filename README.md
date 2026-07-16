@@ -1,6 +1,6 @@
 # Merhaba, Ben Ahmet Hasan İmre! 👋
 
-Mühendislik felsefesine, düşük seviyeli programlamaya (Low-Level), oyun geliştirmeye ve yazılım güvenliğine meraklı bir **Bilgisayar Mühendisliği Öğrencisiyim**. Kod yazarken hem donanımın sınırlarını zorlamayı hem de yaratıcı dünyalar inşa etmeyi seviyorum.
+Mühendislik felsefesine, web tabanlı programlamaya, oyun geliştirmeye ve yazılım güvenliğine meraklı bir **Bilgisayar Mühendisliği Öğrencisiyim**. Kod yazarken hem donanımın sınırlarını zorlamayı hem de yaratıcı dünyalar inşa etmeyi seviyorum.
 
 ---
 
@@ -8,7 +8,7 @@ Mühendislik felsefesine, düşük seviyeli programlamaya (Low-Level), oyun geli
 
 - 🎓 **Eğitim:** İZÜ - Bilgisayar Mühendisliği (3. Sınıf)
 - 🛠️ **Odak Alanlarım:** Oyun Geliştirme (2D/3D), Gömülü Sistemler (Embedded), C++ ve Uygulama Güvenliği (AppSec).
-- 🌱 **Şu An Ne Yapıyorum?** Godot Engine ile mobil oyun mekanikleri geliştiriyor ve C++ tabanlı interaktif projeler üzerinde çalışıyorum.
+- 🌱 **Şu An Ne Yapıyorum?** Godot Engine ile mobil oyun mekanikleri geliştiriyor ve HTML tabanlı interaktif projeler üzerinde çalışıyorum.
 
 ---
 
